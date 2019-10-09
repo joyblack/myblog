@@ -296,5 +296,3 @@ debug：当此属性设置为true时，将打印出logback内部日志信息，�
 </dependency>
 ```
 也就是说，在原先的默认pom配置上，排除掉`spring-boot-starter-logging`，改用`spring-boot-starter-log4j2`即可。然后我们就在类路径下写log4j2的配置文件就可以了。
-
-

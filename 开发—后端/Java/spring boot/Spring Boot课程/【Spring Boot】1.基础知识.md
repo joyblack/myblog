@@ -23,7 +23,7 @@ spring cloud —— 分布式整体解决方案
 7. 与云计算天然集成
 
 # 微服务
-提出者，Martin fowler.
+提出者，Martin flower.
 
 # 简介
 1. 是一种架构风格
